@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tY4P/45y6i7Md+ohOrx/u1RxNYFD/Q9Wzf++G4ELLJBO1hsrX2K6i10OGRk0o49W0+Bq64dkCwH1y/MJqEZfeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\source\\repos\\Fffaker\\FakerInterfaces\\FakerInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
