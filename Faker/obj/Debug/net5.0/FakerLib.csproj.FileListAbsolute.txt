@@ -1,0 +1,36 @@
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\obj\Debug\net5.0\FakerLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\obj\Debug\net5.0\FakerLib.AssemblyInfoInputs.cache
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\obj\Debug\net5.0\FakerLib.AssemblyInfo.cs
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\obj\Debug\net5.0\FakerLib.csproj.CoreCompileInputs.cache
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\bin\Debug\net5.0\FakerLib.deps.json
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\bin\Debug\net5.0\FakerLib.dll
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\bin\Debug\net5.0\ref\FakerLib.dll
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\bin\Debug\net5.0\FakerLib.pdb
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\obj\Debug\net5.0\FakerLib.dll
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\obj\Debug\net5.0\ref\FakerLib.dll
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\obj\Debug\net5.0\FakerLib.pdb
+G:\BSUIR\5 sem\MPP\Lab2 Main\Faker\Faker\obj\Debug\net5.0\FakerLib.csprojAssemblyReference.cache
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\bin\Debug\net5.0\FakerLib.deps.json
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\bin\Debug\net5.0\FakerLib.dll
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\bin\Debug\net5.0\ref\FakerLib.dll
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\bin\Debug\net5.0\FakerLib.pdb
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\obj\Debug\net5.0\FakerLib.csprojAssemblyReference.cache
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\obj\Debug\net5.0\FakerLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\obj\Debug\net5.0\FakerLib.AssemblyInfoInputs.cache
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\obj\Debug\net5.0\FakerLib.AssemblyInfo.cs
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\obj\Debug\net5.0\FakerLib.csproj.CoreCompileInputs.cache
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\obj\Debug\net5.0\FakerLib.dll
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\obj\Debug\net5.0\ref\FakerLib.dll
+G:\BSUIR\5 sem\MPP\Lab2 Faker\Faker\Faker\obj\Debug\net5.0\FakerLib.pdb
+C:\Users\diana\source\repos\faker_spp\Faker\bin\Debug\net5.0\FakerLib.deps.json
+C:\Users\diana\source\repos\faker_spp\Faker\bin\Debug\net5.0\FakerLib.dll
+C:\Users\diana\source\repos\faker_spp\Faker\bin\Debug\net5.0\ref\FakerLib.dll
+C:\Users\diana\source\repos\faker_spp\Faker\bin\Debug\net5.0\FakerLib.pdb
+C:\Users\diana\source\repos\faker_spp\Faker\obj\Debug\net5.0\FakerLib.csproj.AssemblyReference.cache
+C:\Users\diana\source\repos\faker_spp\Faker\obj\Debug\net5.0\FakerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\faker_spp\Faker\obj\Debug\net5.0\FakerLib.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\faker_spp\Faker\obj\Debug\net5.0\FakerLib.AssemblyInfo.cs
+C:\Users\diana\source\repos\faker_spp\Faker\obj\Debug\net5.0\FakerLib.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\faker_spp\Faker\obj\Debug\net5.0\FakerLib.dll
+C:\Users\diana\source\repos\faker_spp\Faker\obj\Debug\net5.0\ref\FakerLib.dll
+C:\Users\diana\source\repos\faker_spp\Faker\obj\Debug\net5.0\FakerLib.pdb

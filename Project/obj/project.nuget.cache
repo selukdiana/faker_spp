@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5Kibk4kCaP5Vk6zldBjlwd8rRClEmCi+/+vGG8JD9D+TIOB2KA7GXJKb9+3KrZg+d3HtAGKcPBz8tE+bB3h+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\source\\repos\\faker_spppp\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\BSUIR\\5 sem\\MPP\\Lab2 Main\\Faker\\Faker\\Faker.csproj": {}
+  },
+  "projects": {
+    "G:\\BSUIR\\5 sem\\MPP\\Lab2 Main\\Faker\\Faker\\Faker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\BSUIR\\5 sem\\MPP\\Lab2 Main\\Faker\\Faker\\Faker.csproj",
+        "projectName": "Faker",
+        "projectPath": "G:\\BSUIR\\5 sem\\MPP\\Lab2 Main\\Faker\\Faker\\Faker.csproj",
+        "packagesPath": "C:\\Users\\donla\\.nuget\\packages\\",
+        "outputPath": "G:\\BSUIR\\5 sem\\MPP\\Lab2 Main\\Faker\\Faker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Apps\\Visual Studio\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\donla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
