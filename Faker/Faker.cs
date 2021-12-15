@@ -140,7 +140,58 @@ namespace FakerLib
         public int count1 = 0;
         public int count2 = 0;
 
-        
+        private bool TryGenerateCls(Type type, out object instance)
+        {
+
+            instance = null;
+
+            if (!type.IsClass && !type.IsValueType)
+                return false;
+
+            if (circularReferencesEncounter.Contains(type))
+            {
+
+                Type type1 = type;
+
+                foreach (Type t in counter)
+                {
+                    //смотрим, чтобы у нас было два отличных класса и начинаем считать
+                    if (t.Equals(type1))
+                    {
+                        count1++;
+                    }
+
+                    if (!t.Equals(type1))
+                    {
+                        count2++;
+                    }
+                    if (count1 == 2 && count2 == 2) { break; }
+                }
+                if (count1 == 2 && count2 == 2)
+                {
+                    //выходим
+                    instance = default;
+
+                    return true;
+                }
+                //не достигли - сначала
+                count1 = 0;
+                count2 = 0;
+            }
+            circularReferencesEncounter.Add(type);
+            //добавление листа
+            counter.Add(type);
+            if (TryConstruct(type, out instance))
+            {
+                GenerateFillProps(instance, type);
+                GenerateFillFields(instance, type);
+
+                circularReferencesEncounter.Remove(type);
+                return true;
+            }
+
+            return false;
+        }
 
         private bool TryConstruct(Type type, out object instance)
         {
